@@ -1,0 +1,8 @@
+body{
+  background-color: aqua;
+}
+.box{
+  background: url(./ad-left.jpg) center no-repeat;
+  width: 300px;
+  height: 300px;
+}
